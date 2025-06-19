@@ -1,6 +1,6 @@
 # 🛒 GreenCart
 
-GreenCart is a full-stack e-commerce web application for ordering groceries online. It features a modern React frontend and a Node.js/Express backend, with MongoDB for data storage.
+GreenCart is a full-stack e-commerce web application for ordering groceries online. It features a modern React frontend and a Node.js/Express backend, with MongoDB for data storage. The application is built using the MERN stack.
 
 ---
 
